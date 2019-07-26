@@ -18,6 +18,8 @@ public class First {
         System.out.println("李文");
 
         System.out.println("哈哈哈");
+
+        System.out.println("呵呵呵");
     }
 
 }
