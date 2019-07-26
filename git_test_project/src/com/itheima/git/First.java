@@ -9,6 +9,8 @@ public class First {
         for (int i = 10; i >0 ; i--) {
             System.out.println("hello,git!!!");
         }
+
+        System.out.println("git");
     }
 
 }
