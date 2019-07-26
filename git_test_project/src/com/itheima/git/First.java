@@ -6,6 +6,9 @@ public class First {
             System.out.println("hello,git!!!!");
         }
 
+
+        System.out.println("肖毅");
+
         for (int i = 10; i >0 ; i--) {
             System.out.println("hello,git!!!");
         }
